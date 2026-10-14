@@ -1,13 +1,8 @@
-let texto = "Mundo JS";
-let numero = 42;
-let ligado = true;
-let vazio = null;
-let indefinido;
-let numeroGrande = 100n;
+const a = 15;
+const b = 4;
 
-console.log(typeof texto);
-console.log(typeof numero);
-console.log(typeof ligado);
-console.log(typeof vazio);
-console.log(typeof indefinido);
-console.log(typeof numeroGrande);
+console.log("Adição:", a + b);
+console.log("Subtração:", a - b);
+console.log("Multiplicação:", a * b);
+console.log("Divisão:", a / b);
+console.log("Resto (%):", a % b);
