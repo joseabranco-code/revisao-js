@@ -1,5 +1,5 @@
-const a = 15;
-const b = 4;
+const a = 120;
+const b = 67;
 
 console.log("Adição:", a + b);
 console.log("Subtração:", a - b);
