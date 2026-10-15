@@ -1,9 +1,6 @@
-// const temCarteira = true
-// const maiorDeIdade = false
-// const podeConduzir = temCarteira && maiorDeIdade;
-// console.log(podeConduzir);
+let a = Number("José")
+let b = "jose"
 
-const temCarteira = true
-const maiorDeIdade = false
-const satisfazUm = temCarteira || maiorDeIdade
-console.log(satisfazUm)
+console.log(typeof a);
+console.log(typeof b);
+
