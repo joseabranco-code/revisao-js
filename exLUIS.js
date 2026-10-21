@@ -38,3 +38,14 @@
 
 //==============================================>
     
+//EXERCICIO 07
+
+    // const colegas = [Marsol, José, Guilherme, Josué, Felipe]
+
+    // let present = colegas.forEach ((colegas))
+
+//=============================================>
+
+//EXERCICIO 09
+
+    CloseEvent
